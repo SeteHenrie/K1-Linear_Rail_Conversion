@@ -7,4 +7,8 @@ I am not liable for damage to any machines.
 
 I recomend using the parts listed in the Bill of Materials as I have had the best success using those parts, however using other brands should still work. 
 
+THIS IS A BETA - THE FILES ARE MESSY AND INCOMPLETE
+
+YOU HAVE TO DOWNLOAD THE ZIP FROM GOOGLE DRIVE HERE ----> https://drive.google.com/file/d/1pliiII0BaQJxy7FcMxYBJn7Rrj1t55Hp/view?usp=sharing
+
 Happy Printing!
