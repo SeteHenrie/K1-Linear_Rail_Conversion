@@ -12,7 +12,7 @@ am working on getting an online store setup, but for now you can just email me a
 For instructions on how to dissasemble the printer to have access to the gantry for replacement, visit https://github.com/nurbs999/K1-Linear_Rail_Conversion/blob/disassemble_guide/Disassemble.md
 
 
-THIS IS A BETA - THE FILES ARE MESSY AND INCOMPLETE
+THIS IS A BETA - THE FILES ARE MESSY AND INCOMPLETE LAST UPDATE TO BOM AND STL PACK WAS 1/31/2024
 
 YOU HAVE TO DOWNLOAD THE ZIP FROM GOOGLE DRIVE HERE ----> https://drive.google.com/file/d/1pliiII0BaQJxy7FcMxYBJn7Rrj1t55Hp/view?usp=sharing
 
