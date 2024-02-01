@@ -20,3 +20,5 @@ FOR LATEST BOM VISIT THE LIVE BOM HERE ----> https://docs.google.com/spreadsheet
 
 Happy Printing!
 ![Screenshot (8)](https://github.com/SeteHenrie/K1-Linear_Rail_Conversion/assets/155045684/13367960-0a04-405a-8efa-f18ac898944d)
+
+image shows both x axis versions. You only need to pick one to buy the materials for from the bom, not both.
