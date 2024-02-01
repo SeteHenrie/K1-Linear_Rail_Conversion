@@ -16,5 +16,7 @@ THIS IS A BETA - THE FILES ARE MESSY AND INCOMPLETE LAST UPDATE TO BOM AND STL P
 
 YOU HAVE TO DOWNLOAD THE ZIP FROM GOOGLE DRIVE HERE ----> https://drive.google.com/file/d/1pliiII0BaQJxy7FcMxYBJn7Rrj1t55Hp/view?usp=sharing
 
+FOR LATEST BOM VISIT THE LIVE BOM HERE ----> https://docs.google.com/spreadsheets/d/1masbdOI7V05vuq5sIPhYayxi4L4x-hQhT9OKTY4DG_c/edit?usp=sharing****
+
 Happy Printing!
 ![Screenshot (8)](https://github.com/SeteHenrie/K1-Linear_Rail_Conversion/assets/155045684/13367960-0a04-405a-8efa-f18ac898944d)
