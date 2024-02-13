@@ -1,6 +1,8 @@
 # K1-Linear_Rail_Conversion
 This repository includes several designs and instruction for the implementation of linear rails on the Creality K1 3D printer. 
 
+NOTE: AFTER A BIUT OF TESTING, I HIGHLY RECOMEND THE MGN9 VERSION OVER THE MGN7 VERSION.
+
 IMPORTANT: These designs are made specifically for the K1, and were not tested on the K1 Max, or the K1C.
 Instalation of this mod does not guarantee better preformance and may void your warranty.
 I am not liable for damage to any machines. 
@@ -12,7 +14,7 @@ am working on getting an online store setup, but for now you can just email me a
 For instructions on how to dissasemble the printer to have access to the gantry for replacement, visit https://github.com/nurbs999/K1-Linear_Rail_Conversion/blob/disassemble_guide/Disassemble.md
 
 
-THIS IS A BETA - THE FILES ARE MESSY AND INCOMPLETE LAST UPDATE TO BOM AND STL PACK WAS 1/31/2024
+THIS IS A BETA - THE FILES ARE MESSY AND INCOMPLETE LAST UPDATE TO BOM AND STL PACK WAS 2/8/2024
 
 YOU HAVE TO DOWNLOAD THE ZIP FROM GOOGLE DRIVE HERE ----> https://drive.google.com/file/d/1pliiII0BaQJxy7FcMxYBJn7Rrj1t55Hp/view?usp=sharing
 
