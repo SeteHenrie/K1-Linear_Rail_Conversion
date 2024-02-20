@@ -1,7 +1,7 @@
 # K1-Linear_Rail_Conversion
 This repository includes several designs and instruction for the implementation of linear rails on the Creality K1 3D printer. 
 
-NOTE: AFTER A BIT OF TESTING, I HIGHLY RECOMEND THE MGN9 VERSION OVER THE MGN7 VERSION.
+NOTE: AFTER TESTING OF THESE DESIGNS I CAN CONCLUDE THAT THEY ARE NOT WORTHY OF RECOMENDATION AS A VIABLE SOLUTION TO THE VFA ISSUE. I WILL NOT BE SELLING ANY PARTS OR KITS FOR THE DESIGNS. YOU CAN STILL MAKE AND SCOURCE THE PARTS YOURSELF.
 
 IMPORTANT: These designs are made specifically for the K1, and were not tested on the K1 Max, or the K1C.
 Instalation of this mod does not guarantee better preformance and may void your warranty.
